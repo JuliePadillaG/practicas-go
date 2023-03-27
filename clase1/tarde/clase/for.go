@@ -2,7 +2,7 @@ package clase
 
 import "fmt"
 
-func clase() {
+func Ejecutarclase2() {
 	//Standard for
 	sum := 1
 	for i := 0; i < 100; i++ {

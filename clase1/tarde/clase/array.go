@@ -1,8 +1,10 @@
 package clase
 
-import "fmt"
+import (
+	"fmt"
+	)
 
-func clase() {
+func Ejecutarclase() {
 	//var myArray [2]int
 	//Declarar un array con valores predefinidos
 	// Los tres punticos significan "no tengo el tamaño definido, quiero que lo deduzcas de los valores iniciales"
